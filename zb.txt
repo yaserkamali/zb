@@ -1,3 +1,5 @@
 vless://fc763544-a760-4772-bda8-210a2ac4aabe@foxider.com:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#zb
 vless://fc763544-a760-4772-bda8-210a2ac4aabe@ariyadocs.ir:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#zb
 vless://fc763544-a760-4772-bda8-210a2ac4aabe@anten.ir:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#zb
+warp://162.159.195.92:908/?ifp=5-10#zb
+warp://162.159.195.2:988/?ifp=5-10#zb
