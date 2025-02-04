@@ -4,3 +4,7 @@ vless://381c25e6-1dea-4b61-acee-692a2c39f75e@213.176.127.40:51725?type=tcp&secur
 vless://4a9089ea-dc73-42c7-9a9e-a6aaeb05df84@213.176.127.40:25657?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#vv1-z4
 vless://e49a1e8e-ceb7-427f-8ccb-96a62b429975@213.176.127.40:27075?type=ws&path=%2Fgrm.gameserversir.ir12345&host=grm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#vv2-z5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bmZEYWNYaWswVTBWUVpvYXJ1MkFEMFhGdEtSMUxvZ05qT2JuV2xXNHNEUT06SkFhMHJlSzhVcmZIZ2NkMnlDYTZEc0ppcEFkZStBUWNoUURZdndwQzhnND0@213.176.127.40:35086?type=tcp#shadow-z6
+vless://4a88c608-7fbb-4faf-abdd-f72e25a439b8@213.176.127.40:2087?type=splithttp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=grm.gameserversir.ir#https-z7
+vless://a95e1c02-5040-467a-94df-d107edb38997@213.176.127.40:443?type=xhttp&path=%2Fiman&host=&mode=auto&security=reality&pbk=6E9BJ71rWl2eclDCkXREcTgNQPlutTcum0vzKyCSmlM&fp=chrome&sni=yahoo.com&sid=8ae1c5f59d5c&spx=%2F#r5-z8
+vless://6fe794a1-00d8-4c67-b505-e3b04470c783@213.176.127.40:8443?type=xhttp&path=%2Fiman&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#v6-z9
+trojan://uuflm73DcF@213.176.127.40:34609?type=ws&path=%2Fgrm&host=grm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#grpc1-z10
